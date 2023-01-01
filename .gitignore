@@ -1,2 +1,7 @@
 # ide script
 .idea
+
+# node_modules
+src/web/node_modules
+
+# src/web/.idea

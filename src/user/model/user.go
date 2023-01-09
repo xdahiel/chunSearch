@@ -1,7 +1,7 @@
 package model
 
 import (
-	"chunsearch/common"
+	"chunSearch/common"
 	"github.com/google/uuid"
 	"log"
 	"time"

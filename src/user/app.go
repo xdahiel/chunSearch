@@ -1,7 +1,7 @@
 package user
 
 import (
-	"chunsearch/user/model"
+	"chunSearch/user/model"
 )
 
 func Init() {
